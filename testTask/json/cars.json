@@ -1,0 +1,72 @@
+[
+    {
+        "brand" : "Mercedes",
+        "model" : "W136",
+        "color" : "black"
+    },
+    {
+        "brand" : "BMW",
+        "model" : "M5",
+        "color" : "silver"
+    },
+    {
+        "brand" : "Honda",
+        "model" : "Civic",
+        "color" : "red"
+    },
+    {
+        "brand" : "Hyundai",
+        "model" : "Getz",
+        "color" : "red"
+    },
+    {
+        "brand" : "Daewoo",
+        "model" : "Matiz",
+        "color" : "silver"
+    },
+    {
+        "brand" : "BMW",
+        "model" : "E34",
+        "color" : "red"
+    },
+    {
+        "brand" : "Ford",
+        "model" : "Focus",
+        "color" : "white"
+    },
+    {
+        "brand" : "Volvo",
+        "model" : "XC60",
+        "color" : "black"
+    },
+    {
+        "brand" : "Renault",
+        "model" : "Kaptur",
+        "color" : "brown"
+    },
+    {
+        "brand" : "Volkswagen",
+        "model" : "Polo",
+        "color" : "white"
+    },
+    {
+        "brand" : "Skoda",
+        "model" : "Fabia",
+        "color" : "green"
+    },
+    {
+        "brand" : "Smart",
+        "model" : "Fortwo Turbo",
+        "color" : "black"
+    },
+    {
+        "brand" : "Nissan",
+        "model" : "Qashqai",
+        "color" : "grey"
+    },
+    {
+        "brand" : "Chevrolet",
+        "model" : "Aveo",
+        "color" : "black"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "brand" : "Mercedes",
+        "color" : "black"
+    },
+    {
+        "brand" : "BMW",
+        "color" : "silver"
+    },
+    {
+        "brand" : "Honda",
+        "color" : "red"
+    },
+    {
+        "brand" : "Hyundai",
+        "color" : "red"
+    },
+    {
+        "brand" : "Daewoo",
+        "color" : "silver"
+    },
+    {
+        "brand" : "BMW",
+        "color" : "red"
+    },
+    {
+        "brand" : "Ford",
+        "color" : "white"
+    },
+    {
+        "brand" : "Volvo",
+        "color" : "black"
+    },
+    {
+        "brand" : "Renault",
+        "color" : "brown"
+    },
+    {
+        "brand" : "Volkswagen",
+        "color" : "white"
+    },
+    {
+        "brand" : "Skoda",
+        "color" : "green"
+    },
+    {
+        "brand" : "Smart",
+        "color" : "black"
+    },
+    {
+        "brand" : "Nissan",
+        "color" : "grey"
+    },
+    {
+        "brand" : "Chevrolet",
+        "color" : "black"
+    }
+]
