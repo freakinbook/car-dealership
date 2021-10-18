@@ -43,8 +43,17 @@ th{
     line-height: 200%;
     background-color:lightseagreen;
 }
-td{
+tr{
     background-color: lightblue;
+}
+tr:hover {
+    background-color: cadetblue;
+}
+.not-available{
+    background-color: lightcoral;
+}
+.not-available:hover{
+    background-color: darkred;
 }
 input{
     margin-bottom: 1em;
